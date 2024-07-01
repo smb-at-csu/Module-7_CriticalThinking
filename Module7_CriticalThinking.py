@@ -1,6 +1,6 @@
 ## CSC500 Module 7 - Critical Thinking
 ## Sonya Bourgeois
-## 06/16/2024
+## 06/30/2024
 
 # Create COURSE ROOMS dictionary.
 course_rooms = {
